@@ -381,7 +381,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
-    loofah (2.2.2)
+    loofah (2.2.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -654,7 +654,7 @@ GEM
     thread_safe (0.3.6)
     tilt (2.0.8)
     tins (1.17.0)
-    tinymce-rails (4.8.4)
+    tinymce-rails (4.8.2)
       railties (>= 3.1.1)
     to_regexp (0.2.1)
     tophat (2.3.1)
@@ -794,6 +794,7 @@ DEPENDENCIES
   sqlite3
   stanford-mods (~> 2.2, >= 2.2.1)
   sul_styles
+  tinymce-rails (= 4.8.2)
   traject
   turbolinks (~> 5)
   turnout
